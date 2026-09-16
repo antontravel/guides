@@ -14,14 +14,12 @@ GitHub Pages публикует ветку `main`, папку `/ (root)`. Фай
 
 ## Путеводители PDF
 
-PDF не включены в этот публичный репозиторий. Кнопки ведут на действующие файлы:
+PDF хранятся в папке `downloads/` этого репозитория и доступны через GitHub Pages:
 
-- [Плёс для телефона, 36 страниц, 7,9 МБ](https://anton-elston-travel.anton-els.chatgpt.site/downloads/ples-phone.pdf?v=5).
-- [Плёс для печати A5, 19,4 МБ](https://anton-elston-travel.anton-els.chatgpt.site/downloads/ples-print-a5.pdf).
+- [Плёс для телефона, 36 страниц, 7,9 МБ](https://antontravel.github.io/guides/downloads/ples-phone.pdf).
+- [Плёс для печати A5, 19,4 МБ](https://antontravel.github.io/guides/downloads/ples-print-a5.pdf).
 
-Это постоянные публичные ссылки, без проверки покупки и без ограничения срока действия.
-Текущее размещение PDF должно оставаться доступным до переноса файлов в отдельное хранилище.
-При таком переносе нужно заменить два адреса в `index.html`.
+Кнопки сайта используют относительные ссылки на эти файлы. Для обновления путеводителя замените соответствующий PDF в `downloads/` и сохраните изменения в `main`.
 
 ## Обновления
 
